@@ -1,0 +1,26 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="waifubeforelaifu.com" resolutions="1x" timestamp="1625982426822">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4233137535" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="grass_block_je6_be5.png" crc="87832397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rqainasf_400x400.jpg" crc="4175418884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="furnace-crop-u127.png" crc="389405928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="27269659" seo="true" mt="1625982409399" redirect="true"/>
+</manifest>
